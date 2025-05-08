@@ -11,11 +11,14 @@ This is a basic chatbot built in Python using conditional statements. It interac
 ## Example
 
 User: Hello
+
 Chatbot: Hi there! How can I help you?
 
 User: what is python?
+
 Chatbot: Python is an high-level, Interpreted Language
 
 User: goodbye
+
 Chatbot: Goodbye! Have a nice day!
 
